@@ -225,8 +225,13 @@ def RecolorInverter(complete_color_code):
 
   print(test_string998)
 
+  if test_string == test_string998:
 
+    print("\n run 100% succesfully")
 
+  if not test_string == test_string998:
+
+    print("\n didn't run successfully")
 
 
     #Old inverters(don't work as well):
